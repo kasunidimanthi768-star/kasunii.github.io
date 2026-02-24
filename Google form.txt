@@ -1,0 +1,16 @@
+<html>
+<head>
+    <title>Google form</title>
+</head>	
+<body>
+
+<h2>Feedback form</h2>
+
+<h3>Registration form</h3>
+
+<form>
+    Name: <input type="text"><br></br>
+	Email : <input type="email"><br></br>
+	password :<input type="password"><br></br>
+	Gender : <input type "radio"> name="gender"> male
+	        : <input type "radio"> name="gender">female
